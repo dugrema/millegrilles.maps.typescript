@@ -6,7 +6,7 @@
         "protomaps": {
             "type": "vector",
             "tiles": [
-                "https://tiles.basemaps.cartocdn.com/v/20261026-01/vectortiles/carto.streets/v2/{z}/{x}/{y}.mvt"
+                "http://localhost:8082/tiles/{z}/{x}/{y}.mvt"
             ],
             "minzoom": 0,
             "maxzoom": 15,
