@@ -13,8 +13,7 @@
             "attribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/about-carto/\">CARTO</a>"
         }
     },
-    "sprite": "https://tiles.basemaps.cartocdn.com/v/20261026-01/gl/positron-gl-style/sprite",
-    "glyphs": "https://tiles.basemaps.cartocdn.com/v/20261026-01/fonts/{fontstack}/{range}.pbf",
+    "glyphs": "https://bureau1.maple.maceroc.com/protomaps/fonts/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "background",
@@ -816,10 +815,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat Regular Italic",
-                    "Open Sans Italic",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "symbol-placement": "line",
                 "symbol-spacing": 300,
@@ -7079,10 +7075,7 @@
                     ]
                 },
                 "text-font": [
-                    "Montserrat SemiBold Italic",
-                    "Open Sans Italic",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-line-height": 1.2,
                 "text-padding": 2,
@@ -7179,10 +7172,7 @@
                 "symbol-placement": "point",
                 "text-size": 12,
                 "text-font": [
-                    "Montserrat SemiBold Italic",
-                    "Open Sans Italic",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-line-height": 1.2,
                 "text-padding": 2,
@@ -7360,10 +7350,7 @@
                     ]
                 },
                 "text-font": [
-                    "Montserrat Regular Italic",
-                    "Open Sans Italic",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-line-height": 1.2,
                 "text-padding": 2,
@@ -7548,10 +7535,7 @@
                     ]
                 },
                 "text-font": [
-                    "Montserrat Regular Italic",
-                    "Open Sans Italic",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-line-height": 1.2,
                 "text-padding": 2,
@@ -7726,10 +7710,7 @@
                     ]
                 },
                 "text-font": [
-                    "Montserrat Regular Italic",
-                    "Open Sans Italic",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "symbol-spacing": 350,
                 "text-pitch-alignment": "auto",
@@ -7865,10 +7846,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat Medium",
-                    "Open Sans Regular",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -8108,10 +8086,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat Medium",
-                    "Open Sans Regular",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -8327,10 +8302,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -8535,10 +8507,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -8692,10 +8661,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -8853,10 +8819,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -9030,10 +8993,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -9150,10 +9110,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-transform": "uppercase",
                 "text-size": 14,
@@ -9313,10 +9270,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -9536,10 +9490,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -9704,10 +9655,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": 12,
                 "icon-image": "circle-11",
@@ -9852,10 +9800,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": 12,
                 "icon-image": "circle-11",
@@ -10000,10 +9945,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": 12,
                 "icon-image": "circle-11",
@@ -10148,10 +10090,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": 12,
                 "icon-image": "circle-11",
@@ -10321,10 +10260,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": 12,
                 "icon-image": "circle-11",
@@ -10457,10 +10393,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -10571,10 +10504,7 @@
                     ]
                 ],
                 "text-font": [
-                    "Montserrat SemiBold",
-                    "Open Sans Bold",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -10620,10 +10550,7 @@
             "layout": {
                 "symbol-placement": "line",
                 "text-font": [
-                    "Montserrat Medium",
-                    "Open Sans Regular",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": 9,
                 "text-field": [
@@ -10752,10 +10679,7 @@
             "layout": {
                 "symbol-placement": "line",
                 "text-font": [
-                    "Montserrat Medium",
-                    "Open Sans Regular",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -10932,10 +10856,7 @@
             "layout": {
                 "symbol-placement": "line",
                 "text-font": [
-                    "Montserrat Medium",
-                    "Open Sans Regular",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -11069,10 +10990,7 @@
             "layout": {
                 "symbol-placement": "line",
                 "text-font": [
-                    "Montserrat Medium",
-                    "Open Sans Regular",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ],
                 "text-size": {
                     "stops": [
@@ -11224,10 +11142,7 @@
                     ]
                 },
                 "text-font": [
-                    "Montserrat Medium",
-                    "Open Sans Regular",
-                    "Noto Sans Regular",
-                    "Noto Sans CJK JP Regular"
+                    "Barlow Regular"
                 ]
             },
             "paint": {
