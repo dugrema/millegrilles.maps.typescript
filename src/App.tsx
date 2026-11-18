@@ -22,7 +22,7 @@ export default function App() {
           zoom: 13
         }}
         style={{width: "100vw", height: "100vh"}}
-        mapStyle="/protomaps/maplibre.style.json"
+        mapStyle="/maps/maplibre.style.json"
       >
         <Marker longitude={-75.3554} latitude={45.2621} color="red" />
       </Map>
