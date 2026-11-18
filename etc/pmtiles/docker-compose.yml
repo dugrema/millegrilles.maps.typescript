@@ -1,0 +1,10 @@
+services:
+  pmtiles:
+    image: nexus.maple.maceroc.com/docker_millegrilles/millegrilles/pmtiles-server:1
+    container_name: pmtiles
+    restart: unless-stopped
+    ports:
+      - "2112:2112"
+    volumes:
+      - /mnt/tas/www/html/maps/tiles:/data:ro
+    command: ["serve", "/data", "--interface=0.0.0.0", "--port=2112"]
