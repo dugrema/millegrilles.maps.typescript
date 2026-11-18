@@ -1,0 +1,22 @@
+location /maps {
+  root /usr/share/nginx/html;
+  gzip_static on;
+  try_files $uri $uri/ =404;
+}
+
+location /maps/tiles {
+  set $upstream_tiles http://172.17.0.1:2112;
+
+  # Remove the /maps uri prefix for proxying to /tiles on the pmtiles server
+  rewrite ^/maps/(.*)$ /$1 break;
+
+  proxy_pass $upstream_tiles;
+
+  proxy_set_header Host $host;
+  proxy_set_header X-Real-IP $remote_addr;
+  proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+  proxy_set_header X-Forwarded-Proto $scheme;
+  proxy_set_header Range $http_range;
+
+  include /etc/nginx/conf.d/component_cors.include;
+}
