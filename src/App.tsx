@@ -24,7 +24,7 @@ export default function App() {
         initialViewState={{
           latitude,
           longitude,
-          zoom: 13
+          zoom: 0
         }}
         style={{width: "100vw", height: "100vh"}}
         mapStyle="/maps/maplibre.style.json"
